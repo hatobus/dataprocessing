@@ -4,3 +4,4 @@
 
 2017/08/07 ... 艦これの全艦娘をまとめたcsvファイルを追加．
 2017/08/07 ... Add csv File for All Kanmusu list.
+2017/10/21 ... add gitignore
